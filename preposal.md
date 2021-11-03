@@ -4,7 +4,8 @@
 
 Text-based adventure game that takes in user input 
 Fighting game with an opponent that has randomized moves each turn
-ASCII dress up game
+ASCII stickman dress up game
+A program that retrieves the lyrics of any song that is on lyric websites
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
@@ -12,4 +13,4 @@ I am working alone.
 
 ## Do you have any questions of your own?
 
-To what extent are we allowed to use tools or external sources in
+Are we allowed to use any external libraries from the internet?
