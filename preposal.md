@@ -5,7 +5,7 @@
 Text-based adventure game that takes in user input 
 Fighting game with an opponent that has randomized moves each turn
 ASCII stickman dress up game
-A program that retrieves the lyrics of any song that is on lyric websites
+A program that retrieves the lyrics of any song that can be found on lyrics websites
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
